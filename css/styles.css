@@ -1,0 +1,33 @@
+
+html, body {
+    background-color: #FFF;
+}
+
+h3#selectedFilter {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#list .ui-header a {
+    margin: 2px 5px;
+}
+
+.msg {
+    background-color: #FF6;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    border: 1px solid #CCC;
+    font-size: small;
+}
+
+.custom-count-pos{
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0.2em 0.5em;
+    float: right;
+}
